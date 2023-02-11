@@ -25,6 +25,7 @@
 
 ### a) operational policies and constraints;
 
+
 ### b) description of the proposed system;
 The application will be a way for employees of the company to more easily and efficiently track their earning data. 
 
@@ -44,17 +45,19 @@ The application is to be supported as a desktop version initially and a mobile v
 
 # 6. Other preliminary life-cycle concepts
 ## 6.1 Preliminary acquisition concept
-
+Through comunication between management within Five Star Valet and the employees of the company the functionality of the application will be understood.
 
 ## 6.2 Preliminary deployment concept
 The application will be produced throughout the spring of 2023 and be completed by September 2023.
 
 ## 6.3 Preliminary support concept
+There will be limited support offered after release of the application.
 
 ## 6.4 Preliminary retirement concept
+The application will remain opperational until it is deemed unnecessary.
 
 # 7. Project Constraints
-
+ Constraints on the project may include limited time for developement, lack of development manpower, and limited experience in development. 
 # 8. Appendix
 
 ## 8.1 Acronyms and abbreviations
