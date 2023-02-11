@@ -22,23 +22,32 @@
 ## 5.1 Preliminary operational concept
 
 
+
 ### a) operational policies and constraints;
 
 ### b) description of the proposed system;
+The application will be a way for employees of the company to more easily and efficiently track their earning data. 
 
 ### c) modes of system operation;
 
-### d) user classes and other involved personnel; and
+### d) user classes and other involved personnel; 
+ The users of the application will be the employees of Five Star Valet.
 
 ### e) support environment.
+The application is to be supported as a desktop version initially and a mobile version on IOS and Android later.
 
 ## 5.2 Preliminary operational scenarios
+#1: The user will be able to input their tips, hours worked, and location they worked at.
+#2: The user will be able to input data from the past in order to fill missing information.
+#3: The user will be able to view their earning data by day or by location.
+...
 
 # 6. Other preliminary life-cycle concepts
-
 ## 6.1 Preliminary acquisition concept
 
+
 ## 6.2 Preliminary deployment concept
+The application will be produced throughout the spring of 2023 and be completed by September 2023.
 
 ## 6.3 Preliminary support concept
 
