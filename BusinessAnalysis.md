@@ -17,7 +17,7 @@
   ## 4.Business operational modes
   ## 5.Business operational quality
   ## 6.Business structure
-  #5. Preliminary operational concept of proposed system
+  # 5. Preliminary operational concept of proposed system
 
 ## 5.1 Preliminary operational concept
 
