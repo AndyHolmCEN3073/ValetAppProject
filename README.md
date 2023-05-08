@@ -1,12 +1,8 @@
 # ValetAppProject
-An app to track and interpret earning data 
+An app to track and interpret earning data. 
 
 ## Description
+This app was created as a part of a project. Its intended purpose was to showcase the software development lifecycle. The project has examples all of all parts of the SDLC from the planning all the ay through the development and maintnance planning. 
 
-This app will...
-## Getting Started
 
-### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
